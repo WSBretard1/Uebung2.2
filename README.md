@@ -1,19 +1,2 @@
-# PRG_WiSe_22_23_Uebung1
-
-## Author
-Giuseppe Abrami
-
-## Abstract
-This project solves exemplarily (because several ways lead to the goal) exercise 1 from the programming practical course in the winter semester 2022 / 2023.
-Since the data - despite XML and DTD of the German Bundestag - is not ideally represented, importing is not trivial.
-
-At the same time, this is also a reality of life, as there is no such thing as perfect data, and it usually always contains errors.
-
-We address this problem in a later exercise.
-
-## Usage
-To use the program it is necessary to insert the speeches of the German Bundestag as a path.
-The master data of the MPs can also be specified; if not, they will be downloaded live.
-
-## Questions
-Feel free to ask questions in the tutorials.
+Hallo Gianna,
+Ich habe viel aus der Musterlösung für Übung 1 von Herrn Abrami übernommen (sollte alles gekennzeichnet sein und ich habe wirklich einige Zeit gebraucht alles nachzuvollziehen), um einen ordentlichen Grundstein für die Bearbeitung des 2. Übungsblattes zu haben. Ich hätte es nicht geschafft, eine perfekte Übung 1 nachzuholen plus mich in ein neues Thema einzuarbeiten. Und laut dem Übungsblatt, bekommt man in dieser Übung Punkte für die Implementierung von MongoDB, auf welche ich mich konzentrieren wollte. Natürlich ist mir klar, dass ich im Endprojekt keine Punkte für die übernommenen Teile bekomme, deshalb arbeite ich parallel daran einen vollständig eigenen Code für Übung 1 zu haben, aber gerade habe ich wie gesagt die Priorität der Übung 2 gegeben.
